@@ -1,0 +1,1 @@
+articles = Article.create([{ title: "Hello Rails", body: "I am on Rails!" }, { title: "Rails", body: " Rails!" }, { title: "Hello", body: "I am on !" }])
