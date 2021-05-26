@@ -222,6 +222,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bcrypt (~> 3.1.7)
   bcrypt-ruby
   bootsnap (>= 1.4.4)
   byebug
